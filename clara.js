@@ -3,7 +3,6 @@ const fs = require('fs');
 const bot = new Discord.Client();
 bot.commands = new Discord.Collection();
 let coins = require('./coins.json')
-const token = require('./token.json')
 
 fs.readdir("./commands/", (err, files) => {
 
@@ -100,4 +99,4 @@ bot.on("message", async message => {
 
 });
   
-bot.login(token.token);
+bot.login(TOKEN);

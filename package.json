@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JotaroOniKun/Clari3#readme",
   "dependencies": {
     "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0",
     "ms": "^2.1.1"
   }
 }
