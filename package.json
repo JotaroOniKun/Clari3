@@ -1,0 +1,23 @@
+{
+  "name": "clari3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clara.js",
+  "scripts": {
+    "start": "node clara.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JotaroOniKun/Clari3.git"
+  },
+  "author": "Jotaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JotaroOniKun/Clari3/issues"
+  },
+  "homepage": "https://github.com/JotaroOniKun/Clari3#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
+  }
+}
