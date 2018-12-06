@@ -11,7 +11,6 @@ module.exports.run = async (bot, message, args) => {
   .addField("Help", "Displays this help message")
   .addField("Report", "Report another user; Usage: c!report <@user> [Reason]")
   .addField("Tempmute", "Temporarily mutes a user; Usage: c!tempmute <@user> [Time in seconds]; NOTE: This command only works for staff")
-  .setFooter(`${difference} XP til level up`, message.author.displayAvatarURL);
 
   message.channel.send(helpEmbed)
 
