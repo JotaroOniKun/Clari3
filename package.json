@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JotaroOniKun/Clari3.git"
+    "url": "git+https://github.com/clariiii/Clari3.git"
   },
   "author": "Jotaro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JotaroOniKun/Clari3/issues"
+    "url": "https://github.com/clariiii/Clari3/issues"
   },
-  "homepage": "https://github.com/JotaroOniKun/Clari3#readme",
+  "homepage": "https://github.com/clariiii/Clari3#readme",
   "dependencies": {
     "discord.js": "^11.4.2",
     "dotenv": "^6.2.0",
